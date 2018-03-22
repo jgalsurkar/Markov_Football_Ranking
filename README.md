@@ -14,6 +14,9 @@ If Team A has more points than Team B, then Team A wins, and vice versa. The ind
 
 ## Algorithm
 
+![](./images/algo1.png)
+![](./images/algo2.png)
+![](./images/algo3.png)
 
 ## Results
 
